@@ -1,5 +1,3 @@
-# git_test
-Hello Odin!
 
 ## Commands related to a remote repository:
 
